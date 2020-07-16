@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name's Felipe and I'm Software Engineer
 [![Linkedin Badge](https://img.shields.io/badge/-felipeasandrade-0073b1?style=flat-rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeasandrade)](https://www.linkedin.com/in/felipeasandrade)
-[![Gmail Badge](https://img.shields.io/badge/--white?style=social&label=&#847;fasa.work@gmail.com&logo=Gmail&logoColor=c14438&link=mailto:jeferson.ol.lopes@gmail.com)](mailto:jeferson.ol.lopes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/--white?style=social&label=&#847;fasa.work@gmail.com&logo=Gmail&logoColor=c14438&link=mailto:fasa.work@gmail.com)](mailto:fasa.work@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Felipe%20Andrade-1327-7289da?style=flat-rounded-square&logo=Discord&logoColor=7289da&labelColor=4f545c)](https://discord.com)
 [![Twitter Badge](https://img.shields.io/twitter/follow/kaisensan?style=social)](https://twitter.com/kaisensan)
 
