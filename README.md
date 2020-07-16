@@ -6,8 +6,8 @@
 
 - ❤ I'm an Open Source evangelist and Dev communities enthusiastic
 - 🔭 I’m currently working as a freelancer, creating all sorts of web apps
-- 🌱 I've been studying React / React Native, microservices and distributed systems lately
-- 👯 I’m looking to collaborate on projects where there are great people to interact with
+- 🌱 Lately, I've been studying React / React Native, microservices and distributed systems
+- 👯 I’m always looking to collaborate on projects where there are great people to interact with
 - 💬 Ask me about JavaScript, NodeJS, HTML, CSS, SQL, Linux, C#, Automated Tests... and other human things too
 
 "Great code starts with amazing people."
